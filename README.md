@@ -13,7 +13,7 @@ A set of tools to improve and speed-up your workflow for many text-related tasks
 	- This works on Text+ and Text3D nodes in Fusion, and Text+ (not Legacy Text) on the Edit and Cut pages
 - **Subtitle Search** 
 	- Search your subtitle tracks for certain words and jump to the position on the timeline!
-	- Use this to fix bad transcriptions of uncommon words in automatic subtitle transcriptions.
+	- Use this to fix bad transcriptions of uncommon words in automated subtitle transcriptions.
 
 
 
@@ -25,7 +25,8 @@ A set of tools to improve and speed-up your workflow for many text-related tasks
 
 ## Install:
 - Download the ["Text Toolbox for DaVinci Resolve.zip"](https://github.com/neezr/Text-Toolbox-for-DaVinci-Resolve/archive/refs/heads/main.zip) folder
-- Extract the folder and save it to: *"C:\Users\<YOUR_NAME>\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\Fusion\Scripts\Utility"*
+- Extract the *Text Toolbox* folder and save it to:
+	- Windows: *"C:\Users\<YOUR_NAME>\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\Fusion\Scripts\Utility"*
 	- MacOS: *"/Library/Application Support/Blackmagic Design/DaVinci
 Resolve/Fusion/Scripts/Utility"*
 	- Linux: *"/opt/resolve/Fusion/Scripts/Utility"*
