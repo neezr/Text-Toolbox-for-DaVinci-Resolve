@@ -26,7 +26,7 @@ A set of tools to improve and speed-up your workflow for many text-related tasks
 ## Install:
 - Download the ["Text Toolbox for DaVinci Resolve.zip"](https://github.com/neezr/Text-Toolbox-for-DaVinci-Resolve/archive/refs/heads/main.zip) folder
 - Extract the *Text Toolbox* folder and save it to:
-	- Windows: *"C:\Users\<YOUR_NAME>\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\Fusion\Scripts\Utility"*
+	- Windows: *"C:\Users\\<YOUR_NAME>\AppData\Roaming\Blackmagic Design\DaVinci Resolve\Support\Fusion\Scripts\Utility"*
 	- MacOS: *"/Library/Application Support/Blackmagic Design/DaVinci
 Resolve/Fusion/Scripts/Utility"*
 	- Linux: *"/opt/resolve/Fusion/Scripts/Utility"*
